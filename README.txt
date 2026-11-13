@@ -11,3 +11,5 @@ Dữ liệu lưu cục bộ trên trình duyệt/web app của thiết bị, KH�
 Để cập nhật ứng dụng, tải phiên bản mới lên cùng URL và giữ nguyên đường dẫn để duy trì kho dữ liệu cục bộ.
 
 UI v2 Fresh Finance: redesign giao dien, giu nguyen localStorage key va du lieu cu. Upload tat ca file len GitHub Pages, khong xoa du lieu Safari.
+
+V4: Hạn mức riêng cho ngày/tuần/tháng, cảnh báo khi vượt ngày, gợi ý điều chỉnh chi mỗi ngày còn lại để giữ mục tiêu tuần/tháng. Không có push khi app đóng. Backup cũ vẫn khôi phục được.
