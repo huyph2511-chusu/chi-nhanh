@@ -13,3 +13,6 @@ Dữ liệu lưu cục bộ trên trình duyệt/web app của thiết bị, KH�
 UI v2 Fresh Finance: redesign giao dien, giu nguyen localStorage key va du lieu cu. Upload tat ca file len GitHub Pages, khong xoa du lieu Safari.
 
 V4: Hạn mức riêng cho ngày/tuần/tháng, cảnh báo khi vượt ngày, gợi ý điều chỉnh chi mỗi ngày còn lại để giữ mục tiêu tuần/tháng. Không có push khi app đóng. Backup cũ vẫn khôi phục được.
+
+V4 ICON PURPLE: Da thay icon 180/192/512 mau tim, manifest va apple-touch-icon. Chuc nang va khoa du lieu chinhanh_data_v1 giu nguyen.
+Cap nhat GitHub Pages: tai CAC FILE BEN TRONG THU MUC vao repository (khong upload thu muc long nhau). Cho Pages build xong, mo Safari xem. Neu shortcut tren man hinh van giu icon cu, xoa shortcut cu va them lai tu Safari. Truoc khi thao tac nen sao luu JSON. KHONG bam Xoa du lieu website/Safari.
